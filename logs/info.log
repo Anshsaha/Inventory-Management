@@ -1,0 +1,44 @@
+INFO 2024-09-29 10:16:57,686 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:16:57,686 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:16,498 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:16,498 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:19,446 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:19,446 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:31,262 autoreload C:\Users\anshs\OneDrive\Desktop\Aidetic\Blueprint-Inventory\inventory\views.py changed, reloading.
+INFO 2024-09-29 10:20:31,262 autoreload C:\Users\anshs\OneDrive\Desktop\Aidetic\Blueprint-Inventory\inventory\views.py changed, reloading.
+INFO 2024-09-29 10:20:32,046 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 10:20:32,046 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 10:20:34,665 views Item: 17ac43cc-a5e1-4a13-9786-c1d558e8fda2 details retrieved successfully
+INFO 2024-09-29 10:20:34,665 views Item: 17ac43cc-a5e1-4a13-9786-c1d558e8fda2 details retrieved successfully
+INFO 2024-09-29 10:20:34,670 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:34,670 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:36,696 views Item: 17ac43cc-a5e1-4a13-9786-c1d558e8fda2 details retrieved successfully
+INFO 2024-09-29 10:20:36,696 views Item: 17ac43cc-a5e1-4a13-9786-c1d558e8fda2 details retrieved successfully
+INFO 2024-09-29 10:20:36,699 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:36,699 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:38,434 views Item: 17ac43cc-a5e1-4a13-9786-c1d558e8fda2 details retrieved successfully
+INFO 2024-09-29 10:20:38,434 views Item: 17ac43cc-a5e1-4a13-9786-c1d558e8fda2 details retrieved successfully
+INFO 2024-09-29 10:20:38,434 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:38,434 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:42,260 autoreload C:\Users\anshs\OneDrive\Desktop\Aidetic\Blueprint-Inventory\inventory\views.py changed, reloading.
+INFO 2024-09-29 10:20:42,260 autoreload C:\Users\anshs\OneDrive\Desktop\Aidetic\Blueprint-Inventory\inventory\views.py changed, reloading.
+INFO 2024-09-29 10:20:43,130 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 10:20:43,130 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 10:20:44,837 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:44,837 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:46,097 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:46,097 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:47,039 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:47,039 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:47,804 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:47,804 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:48,552 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:20:48,552 basehttp "GET /inventory/items/17ac43cc-a5e1-4a13-9786-c1d558e8fda2/ HTTP/1.1" 200 435
+INFO 2024-09-29 10:25:05,294 autoreload C:\Users\anshs\OneDrive\Desktop\Aidetic\Blueprint-Inventory\inventory\services.py changed, reloading.
+INFO 2024-09-29 10:25:05,294 autoreload C:\Users\anshs\OneDrive\Desktop\Aidetic\Blueprint-Inventory\inventory\services.py changed, reloading.
+INFO 2024-09-29 10:25:06,038 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 10:25:06,038 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 10:25:18,084 autoreload C:\Users\anshs\OneDrive\Desktop\Aidetic\Blueprint-Inventory\inventory\services.py changed, reloading.
+INFO 2024-09-29 10:25:18,084 autoreload C:\Users\anshs\OneDrive\Desktop\Aidetic\Blueprint-Inventory\inventory\services.py changed, reloading.
+INFO 2024-09-29 10:25:18,852 autoreload Watching for file changes with StatReloader
+INFO 2024-09-29 10:25:18,852 autoreload Watching for file changes with StatReloader
